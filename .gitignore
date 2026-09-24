@@ -1,0 +1,9 @@
+.DS_Store
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+local-data/
+local-output/
+renv/library/
+renv/staging/
