@@ -4,7 +4,6 @@ A Shiny / Shinylive tool for plotting GSEA comparisons. Colour = signed NES; cir
 
 The editable source is **app/**. Root-level **app.json**, **index.html**, **shinylive/** and **edit/** are generated deployment files. Do not hand-edit app.json. The current layout preserves GitHub Pages' `main / (root)` setting.
 
-- [日本語：Git管理・修正・公開手順](GIT_WORKFLOW_JA.md)
 - [Release notes](CHANGELOG.md)
 - [GitHub Pages site](https://moto-o.github.io/gsea-balloon/)
 
